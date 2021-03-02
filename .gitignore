@@ -51,6 +51,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
+
 # Translations
 *.mo
 *.pot
@@ -123,3 +124,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Personal Dev Files and Notes
+dont-copy
